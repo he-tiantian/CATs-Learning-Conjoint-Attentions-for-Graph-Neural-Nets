@@ -7,5 +7,5 @@ Python (>=3.8)
 PyTorch (>=1.8.1)
 DGL (0.6.1)
 
-Some preliminary results (As there are no pre/post process or early stopping control and different GPU/CUDA platforms are used, the results might be slightly different from those reported in the paper):
+Some preliminary results (As there are no pre/post process or early stopping control and different GPU/CUDA platforms might be used, the results might be slightly different from those reported in the paper):
 Cora: ~0.849, Cite: ~0.726, Pubmed: ~0.834
