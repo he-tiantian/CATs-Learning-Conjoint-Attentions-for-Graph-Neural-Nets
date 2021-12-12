@@ -1,4 +1,4 @@
-A baseline implementation of Graph Conjoint Attention Networks (CATs) for semi-supervised node classification, that has been proposed in our paper:
+A baseline implementation of Graph Conjoint Attention Networks (CATs) for semi-supervised node classification, that have been proposed in our paper:
 
 Tiantian He, Yew-Soon Ong, and Lu Bai, "Learning Conjoint Attentions for Graph Neural Nets," NeurIPS 2021.
 
