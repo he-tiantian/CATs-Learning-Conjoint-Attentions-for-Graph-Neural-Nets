@@ -1,10 +1,4 @@
-# CATs
+Learning Conjoint Attention for Graph Neural Nets
 
-The python implementation of the paper titled with Learning Conjoint Attentions for Graph Neural Nets that is published in NeurIPS 2021.
+A baseline implementation of Graph Conjoint Attention Networks (CATs) proposed in the NeuralIPS2021 paper: Learning Conjoint Attention for Graph Neural Nets
 
-@inproceedings{he2021learning,
-  title={Learning Conjoint Attentions for Graph Neural Nets},
-  author={He, Tiantian and Ong, Yew-Soon and Bai, Lu},
-  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
-  year={2021}
-}
